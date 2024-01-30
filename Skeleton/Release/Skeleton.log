@@ -1,0 +1,24 @@
+﻿  framework.cpp
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\framework.h(167,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Skeleton.cpp
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\framework.h(167,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(61,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(157,21): warning C4018: '<': signed/unsigned mismatch
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(164,21): warning C4018: '<': signed/unsigned mismatch
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(188,21): warning C4018: '<': signed/unsigned mismatch
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(195,21): warning C4018: '<': signed/unsigned mismatch
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(234,21): warning C4018: '<': signed/unsigned mismatch
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(248,21): warning C4018: '<': signed/unsigned mismatch
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(255,21): warning C4018: '<': signed/unsigned mismatch
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(262,21): warning C4018: '<': signed/unsigned mismatch
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(263,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(277,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(416,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(422,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(467,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(546,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 438 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Skeleton.vcxproj -> C:\university\4.félév\graf\hf2222\GrafikaHaziCsomag\Programs\Skeleton\bin\Skeleton.exe
